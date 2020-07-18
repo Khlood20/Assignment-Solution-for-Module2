@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>our menu</title>
+<h1>This is a heading</h1>
+<section>
+  <h2> chicken </h2>
+  <p> class="chicken" lorem ipsum dolor sit amet , consectetur adipisicing elit ,sed do eiusmod tempor incidedunt ut labore et dolore manga aliqua .Ut enim ad minim veniam ,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commondo consequat </p>
+</section>
+<section>
+  <h2> beef </h2>
+   <p> class="beef" lorem ipsum dolor sit amet , consectetur adipisicing elit ,sed do eiusmod tempor incidedunt ut labore et dolore manga aliqua .Ut enim ad minim veniam ,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commondo consequat </p>
+</section>
+  <h2> suchi </h2>
+   <p> class="suchi" lorem ipsum dolor sit amet , consectetur adipisicing elit ,sed do eiusmod tempor incidedunt ut labore et dolore manga aliqua .Ut enim ad minim veniam ,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commondo consequat </p>
+<section>
+	
+</section>
+</html>
